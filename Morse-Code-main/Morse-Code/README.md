@@ -1,4 +1,4 @@
-# Morse-Code
+## Morse-Code
 
 A Morse-Code encode/decoder which can translate to and from different languages...
 
